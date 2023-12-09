@@ -22,13 +22,6 @@ Our application, the **Hybrid MBTI-Based Job Recommender**, combines content-bas
    - Utilizes a fuzzy algorithm to normalize job counts, enhancing the precision of recommendations.
    - Considers nuanced relationships between job occurrences for more accurate representation of user preferences.
 
-### Advantages:
-
-- **Personalized Recommendations:** Tailored job suggestions based on individual MBTI profiles.
-- **Diverse Insights:** Benefit from a wide range of job recommendations derived from collaborative data.
-- **Enhanced Accuracy:** The hybrid approach minimizes the limitations of individual recommender systems.
-- **Overcoming Challenges:** Addresses common problems like the cold start and sparsity issues.
-
 ## Content-Based Filtering with Fuzzy Logic
 
 ### Overview
