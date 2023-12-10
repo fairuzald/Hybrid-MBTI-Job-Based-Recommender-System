@@ -7,8 +7,9 @@ Our application, the **Hybrid MBTI-Based Job Recommender**, combines content-bas
 ### Key Features:
 
 1. **Content-Based Recommender:**
-   - Recommends jobs based on individual MBTI profiles, focusing on the ISFJ and ENTP personality types.
-   - Analyzes percentage scales of ISFJ and ENTP attributes for personalized job recommendations.
+   - Recommends jobs based on individual MBTI profiles, focusing on the MBTI
+   personality types.
+   - Analyzes percentage scales of MBTI attributes for personalized job recommendations.
    ![Content-Based Recommender](results/cbf_recommendations.png)
 
 2. **Collaborative Recommender:**
